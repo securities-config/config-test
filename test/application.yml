@@ -12,3 +12,13 @@ words: 我,你,他,她
 spring:
   profiles: verb
 words: ran,knew,saw,bought
+
+---
+spring:
+  profiles: subject-replica
+words: I,You,He,She
+  
+---
+spring:
+  profiles: verb-replica
+words: 跑,知,见,买

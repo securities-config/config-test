@@ -6,7 +6,7 @@ eureka:
 ---
 spring:
   profiles: subject
-words: 我,你,他,她
+words: 我们,你们,他们,她们
   
 ---
 spring:
